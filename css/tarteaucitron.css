@@ -515,8 +515,8 @@ div#tarteaucitronServices {
 }
 
 #tarteaucitronAlertBig #tarteaucitronCloseAlert, #tarteaucitronAlertBig #tarteaucitronPersonalize, #tarteaucitron #tarteaucitronPrivacyUrl, #tarteaucitron #tarteaucitronPrivacyUrlDialog {
-    background: #008300;
-    color: #fff;
+    background: #fff;
+    color: gray;
     cursor: pointer;
     display: inline-block;
     font-size: 16px;
