@@ -1,6 +1,6 @@
 /*global tarteaucitron */
 tarteaucitron.lang = {
-    "middleBarHead": "",
+    "middleBarHead": "Cookie-Richtlinien",
     "adblock": "Hallo! Diese Seite ist transparent und lässt Ihnen die Wahl der externen Services, die aktiviert werden dürfen.",
     "adblock_call": "Bitte deaktivieren Sie Ihren 'Werbeblocker' um Cookie-Einstellungen vornehmen zu können.",
     "reload": "Seite neu laden",
@@ -9,18 +9,18 @@ tarteaucitron.lang = {
     "alertBigClick": "Wenn Sie diese Webseite benutzen,",
     "alertBig": "stimmen Sie der Benutzung von externen Diensten zu",
     
-    "alertBigPrivacy": "Diese Webseite verwendet externe Dienste um Inhalte und Anzeigen </br>zu personalisieren und zu analysieren. </br><br/>Bitte bestimmen Sie, welche Dienste und 'Cookies' benutzt werden dürfen.",
+    "alertBigPrivacy": "Diese Website verwendet Cookies und andere Tracking-Technologien zur Unterstützung der Navigation, zur Überwachung der Nutzung der Website sowie des Web-Traffics nur mit Ihrem Einverständnis.<br><br> Sind Sie damit einverstanden?",
     "alertSmall": "Cookie-Einstellungen",
-    "personalize": "Personalisieren",
-    "acceptAll": "Alle akzeptieren",
+    "personalize": "Nein",
+    "acceptAll": "Ja",
     "close": "Schließen",
 
-    "privacyUrl": "Informationen zum Datenschutz",
+    "privacyUrl": "Unsere Datenschutzrichtlinien",
     
     "all": "Einstellungen für alle Dienste",
 
     "info": "Schutz der Privatsphäre",
-    "disclaimer": "Wenn Sie diese Dienste nutzen, erlauben Sie deren 'Cookies' und Tracking-Funktionen, die zu ihrer ordnungsgemäßen Funktion notwendig sind.",
+    "disclaimer": "Wenn Sie diese Dienste nutzen, erlauben Sie deren 'Cookies' und Tracking-Funktionen, die zu der jeweils ordnungsgemäßen Funktion notwendig sind.",
     "allow": "Erlauben",
     "deny": "Ablehnen",
     "noCookie": "Dieser Dienst nutzt keine 'Cookies'.",
@@ -36,8 +36,8 @@ tarteaucitron.lang = {
     "cookieDetail": "Cookie Details für",
     "ourSite": "auf unserer Seite",
     "newWindow": "(neues Fenster)",
-    "allowAll": "Erlaube alle Cookies",
-    "denyAll": "Verbiete alle Cookies",
+    "allowAll": "Erlaube die Cookies",
+    "denyAll": "Verbiete die Cookies",
     
     "fallback": "ist deaktiviert.",
 

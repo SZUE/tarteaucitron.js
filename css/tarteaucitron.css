@@ -501,7 +501,7 @@ div#tarteaucitronServices {
 #tarteaucitronAlertBig #tarteaucitronPrivacyUrlDialog,
 #tarteaucitronAlertBig #tarteaucitronDisclaimerAlert,
 #tarteaucitronAlertBig #tarteaucitronDisclaimerAlert strong {
-    font: 15px verdana;
+    font: 13px verdana;
     color: #fff;
 }
 
@@ -516,13 +516,14 @@ div#tarteaucitronServices {
 
 #tarteaucitronAlertBig #tarteaucitronCloseAlert, #tarteaucitronAlertBig #tarteaucitronPersonalize, #tarteaucitron #tarteaucitronPrivacyUrl, #tarteaucitron #tarteaucitronPrivacyUrlDialog {
     background: #fff;
-    color: gray;
+    color: #000;
     cursor: pointer;
     display: inline-block;
-    font-size: 16px;
+    font-size: 13px;
     padding: 5px 10px;
     text-decoration: none;
     margin-left: 7px;
+    margin-bottom: 20px;
 }
 
 #tarteaucitronAlertBig #tarteaucitronCloseAlert, #tarteaucitron #tarteaucitronPrivacyUrl, #tarteaucitron #tarteaucitronPrivacyUrlDialog {
